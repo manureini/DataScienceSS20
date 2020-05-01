@@ -120,3 +120,5 @@ Please upload your solutions via Moodle!
 * [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)
 * [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)
 
+### Lab
+- TBA -
